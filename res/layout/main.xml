@@ -12,7 +12,11 @@
 	android:id="@+id/url"  
 	android:layout_width="match_parent" 
 	android:layout_height="wrap_content"
+<<<<<<< HEAD
 	android:text="https://codeload.github.com/byxudongdong/HttpDownload/zip/master"
+=======
+	android:text="http://www.crazyit.org/attachment.php?aid=MTA5M3w5OTUyNGEzNHwxMzUyODIzNDM0fDU0MDQ2MHNzd1p5Y25KVkFDYXYzUS9uMEpOUnBKRjFCbFpkTldleWpRYzZUbzVV"
+>>>>>>> 90e2741de9fdd668496e08ad1575ee73db9ec269
 	/>
 <TextView
 	android:layout_width="match_parent" 

@@ -51,7 +51,11 @@ public class MainActivity extends Activity
 			{
 				// 初始化DownUtil对象（最后一个参数指定线程数）
 				downUtil = new DownUtil(url.getText().toString(),
+<<<<<<< HEAD
 						target.getText().toString(), 9);
+=======
+						target.getText().toString(), 6);
+>>>>>>> 90e2741de9fdd668496e08ad1575ee73db9ec269
 				new Thread()
 				{
 					@Override
